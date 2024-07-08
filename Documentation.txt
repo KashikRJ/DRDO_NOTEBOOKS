@@ -1,0 +1,21 @@
+In Geffe Cipher
+->We used dataset of size of 1 lakh ,the dataset contained 64 bit initial key and 8 bytes of Keystream
+->Also performed nist tests on it with tishika
+->Used CNN Model to check randomness bias in the genr keystream.
+
+In A5/1 cipher
+
+->we used datset of size 10 lakh,1lakh ,2lakh ,,the dataset contained 64 bit initial key and 10 bytes of Keystream
+->Also performed nist tests on it with tishika
+->Used CNN Model to check randomness bias in the genr keystream.
+We have a CNN model(built by tishka) for 1lakh,2lakh,15 lakh dataset.
+
+
+
+
+
+
+
+
+
+
